@@ -16,4 +16,4 @@ This project was created as a beginner exercise to practice Python basics such a
 1. Make sure you have Python 3 installed.
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/Mamad-Jahan-007/Python_Calculator.git
+   git clone https://github.com/Mamad-Jahan-007/Simple-Python-Calculator.git
